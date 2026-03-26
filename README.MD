@@ -9,7 +9,7 @@
 - 🚀 &nbsp; Open Source contributor and full-stack developer passionate about building software that makes an impact.
 - 🏗️ &nbsp; Interested in projects focused on real-life applications of Operating Systems, System Design, and Computer Networking.
 - 🔧 &nbsp; Currently contributing to open-source projects at **Alaska**.
-- 🎓 &nbsp; Artificial Intelligence Student @ SVNIT, Surat.
+- 🎓 &nbsp; Artificial Intelligence Student @NIT-Surat (Institute of National Importance).
 - 🤝 &nbsp; Connect with me if you're interested in building something together or just want to chat about tech!
 
 ### Languages and Tools :
