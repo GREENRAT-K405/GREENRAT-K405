@@ -16,9 +16,9 @@
 <div align="center">
 
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/C++-FDF5E6?style=for-the-badge&logo=cplusplus&logoColor=black" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-FDF5E6?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
   <img src="https://img.shields.io/badge/Julia-FDF5E6?style=for-the-badge&logo=julia&logoColor=black" alt="Julia"/>
+  <img src="https://img.shields.io/badge/Python-FDF5E6?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-FDF5E6?style=for-the-badge&logo=cplusplus&logoColor=black" alt="C++"/>
   <img src="https://img.shields.io/badge/TypeScript-FDF5E6?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-FDF5E6?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <br>
@@ -67,4 +67,4 @@
 &nbsp; <a href="https://www.instagram.com/param__kanada/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 </p>
 
-
+
